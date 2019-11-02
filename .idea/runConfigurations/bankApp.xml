@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bankApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="labs.BankAccountApp.BankAccountApp" />
+    <module name="bankApp" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
